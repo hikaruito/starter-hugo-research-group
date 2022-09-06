@@ -11,5 +11,3 @@ design:
   css_class: null
 ---
 <br>
-
-医学部総合生命科学講座に着任しました。
