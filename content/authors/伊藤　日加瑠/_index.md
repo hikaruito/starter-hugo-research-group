@@ -6,8 +6,8 @@ social:
   - display:
       header: false
     link: https://researchmap.jp/HikaruIto
-    icon_pack: ai
-    icon: researchmap
+    icon_pack: fas
+    icon: Rmap
 organizations:
   - name: 香川大学
 email: ""
