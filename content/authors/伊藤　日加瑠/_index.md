@@ -6,8 +6,8 @@ social:
   - display:
       header: false
     link: https://researchmap.jp/HikaruIto
-    icon_pack: fas
-    icon: Rserchmap
+    icon_pack: far
+    icon: <i class="fa-thin fa-fan"></i>
   - display:
       header: false
     link: https://scholar.google.co.uk/citations?hl=ja&user=TG7LJIsAAAAJ
