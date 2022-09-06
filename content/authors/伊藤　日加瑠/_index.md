@@ -5,9 +5,9 @@ avatar_filename: https://researchmap.jp/HikaruIto/avatar.jpg
 social:
   - display:
       header: false
-    link: https://researchmap.jp/HikaruIto
+    link: https://orcid.org/my-orcid?orcid=0000-0002-4693-2482
     icon_pack: ai
-    icon: researcherid
+    icon: orcid
   - display:
       header: false
     link: https://scholar.google.co.uk/citations?hl=ja&user=TG7LJIsAAAAJ
