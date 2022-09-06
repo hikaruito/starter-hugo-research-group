@@ -8,5 +8,8 @@ social:
     link: https://researchmap.jp/HikaruIto
     icon_pack: ai
     icon: researchmap
-superuser: true
+organizations:
+  - name: 香川大学
+email: ""
+superuser: false
 ---
