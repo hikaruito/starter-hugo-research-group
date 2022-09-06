@@ -8,5 +8,5 @@ social:
     link: https://researchmap.jp/HikaruIto
     icon_pack: ai
     icon: researchmap
-superuser: false
+superuser: true
 ---
