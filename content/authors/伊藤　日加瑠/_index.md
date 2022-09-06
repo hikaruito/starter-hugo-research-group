@@ -11,8 +11,8 @@ social:
   - display:
       header: false
     link: https://scholar.google.co.uk/citations?hl=ja&user=TG7LJIsAAAAJ
-    icon_pack: fas
-    icon: google scholar
+    icon_pack: ai
+    icon: google-scholar
 organizations:
   - name: 香川大学
 email: ""
