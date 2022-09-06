@@ -1,7 +1,7 @@
 ---
-# Files in this folder represent a Widget Page (homepage)
 type: widget_page
-
-# Homepage is headless, other widget pages are not.
+widget: 伊藤日加瑠研究室
+widget_id: RECENT-POSTS
 headless: true
+weight: 10
 ---
