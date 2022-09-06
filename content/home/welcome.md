@@ -11,4 +11,4 @@ design:
   css_class: null
 hero_media: welcome.jpg
 ---
-Hikaru Ito's laboratory
+<br> Hikaru Ito's laboratory
