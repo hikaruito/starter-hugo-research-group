@@ -1,6 +1,6 @@
 ---
 title: 伊藤　日加瑠
-role: ""
+role: 香川大学医学部　准教授
 avatar_filename: avatar
 social:
   - display:
