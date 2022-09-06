@@ -13,6 +13,11 @@ social:
     link: https://scholar.google.co.uk/citations?hl=ja&user=TG7LJIsAAAAJ
     icon_pack: ai
     icon: google-scholar
+  - display:
+      header: false
+    link: https://orcid.org/0000-0002-4693-2482
+    icon_pack: ai
+    icon: orcid
 organizations:
   - name: 香川大学
 email: ""
